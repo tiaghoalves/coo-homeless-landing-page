@@ -11,11 +11,12 @@
     "theme",
     "template"
   ],
-  "homepage": "http://coohomeless.me/landing-page/",
+  "homepage": "http://coohomeless.me/landing-page#readme",
   "bugs": {
     "url": "https://github.com/tiaghoalves/landing-page/issues",
     "email": "tiago.alves718@gmail.com"
   },
+  "main": "./index.html",
   "license": "MIT",
   "author": "Tiago Alves",
   "contributors": [
@@ -24,6 +25,10 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/tiaghoalves/landing-page.git"
+  },
+  "scripts": {
+    "build": "npm install && npm start",
+    "start": "google-chrome index.html"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
