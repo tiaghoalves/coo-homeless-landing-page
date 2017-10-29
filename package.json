@@ -1,8 +1,8 @@
 {
-  "title": "New Age",
-  "name": "startbootstrap-new-age",
-  "version": "4.0.0-beta.2",
-  "description": "A one page app landing page HTML theme for Bootstrap.",
+  "title": "Coo Homeless - Landing Page",
+  "name": "coohomeless-landing-page",
+  "version": "1.0.0-beta.1",
+  "description": "A one page app landing page for Coo Homeless Mobile App.",
   "keywords": [
     "css",
     "sass",
@@ -11,19 +11,19 @@
     "theme",
     "template"
   ],
-  "homepage": "https://startbootstrap.com/template-overviews/new-age",
+  "homepage": "http://coohomeless.me/landing-page/",
   "bugs": {
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age/issues",
-    "email": "feedback@startbootstrap.com"
+    "url": "https://github.com/tiaghoalves/landing-page/issues",
+    "email": "tiago.alves718@gmail.com"
   },
   "license": "MIT",
-  "author": "Start Bootstrap",
+  "author": "Tiago Alves",
   "contributors": [
-    "David Miller (http://davidmiller.io/)"
+    "Henrique Bitencourt (https://github.com/henriquebitencourt/)"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/BlackrockDigital/startbootstrap-new-age.git"
+    "url": "https://github.com/tiaghoalves/landing-page.git"
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta.2",
