@@ -7,8 +7,8 @@
 	<a href="https://raw.githubusercontent.com/tiaghoalves/landing-page/gh-pages/LICENSE">
 		<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license">
 	</a>
-	<a href="https://www.npmjs.com/package/startbootstrap-new-age">
-		<img src="https://img.shields.io/npm/v/startbootstrap-new-age.svg" alt="npm version">
+	<a href="https://www.npmjs.com/package/coohomeless-landing-page">
+		<img src="https://img.shields.io/npm/v/coohomeless-landing-page.svg" alt="npm version">
 	</a>
 	<a href="https://travis-ci.org/tiaghoalves/landing-page">
 		<img src="https://api.travis-ci.org/tiaghoalves/landing-page.svg?branch=master" alt="Build Status">
