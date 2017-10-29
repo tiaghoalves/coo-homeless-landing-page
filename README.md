@@ -1,13 +1,36 @@
-[![Coo Homeless Page](http://coohomeless.me/landing-page/img/logotipo.png)](http://coohomeless.me/landing-page/)
- 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
- 
-**Coo Homeless - Landing Page** is a web app landing page for publish and publicity reasons, for the [Coo Homeless Mobile App](https://github.com/tiaghoalves/coo-homeless) created by [@Tiago Alves](https://github.com/tiaghoalves) and [@Henrique Bittencourt](https://github.com/henriquebitencourt).
- 
+<p align="center">
+	<a href="http://coohomeless.me/landing-page/">
+		<img src="http://coohomeless.me/landing-page/img/logotipo.png" alt="Coo Homeless Page">
+	</a>
+</p>
+<p align="center">
+	<a href="https://raw.githubusercontent.com/tiaghoalves/landing-page/gh-pages/LICENSE">
+		<img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="GitHub license">
+	</a>
+	<a href="https://www.npmjs.com/package/startbootstrap-new-age">
+		<img src="https://img.shields.io/npm/v/startbootstrap-new-age.svg" alt="npm version">
+	</a>
+	<a href="https://travis-ci.org/tiaghoalves/landing-page">
+		<img src="https://api.travis-ci.org/tiaghoalves/landing-page.svg?branch=master" alt="Build Status">
+	</a>
+	<a href="https://david-dm.org/tiaghoalves/landing-page">
+		<img src="https://david-dm.org/tiaghoalves/landing-page/status.svg" alt="dependencies Status">
+	</a>
+	<a href="https://david-dm.org/tiaghoalves/landing-page?type=dev">
+		<img src="https://david-dm.org/tiaghoalves/landing-page/dev-status.svg" alt="devDependencies Status">
+	</a>
+</p>
+
+**Coo Homeless - Landing Page** is a web app landing page for publish and publicity reasons, for the [Coo Homeless Mobile App](https://github.com/tiaghoalves/coo-homeless) 
+
+### Created by
+<a href="https://github.com/tiaghoalves">
+	<img style="-webkit-user-select: none;background-position: 0px 0px, 10px 10px;background-size: 20px 20px;background-image:linear-gradient(45deg, #eee 25%, transparent 25%, transparent 75%, #eee 75%, #eee 100%),linear-gradient(45deg, #eee 25%, white 25%, white 75%, #eee 75%, #eee 100%);cursor: zoom-in;" src="https://avatars3.githubusercontent.com/u/12253419?s=400&amp;u=e43d88afe09792e9ca15894325c51c33075a8f6a&amp;v=4" width="70" height="70" alt="Tiago Alves" />
+</a>
+<a href="https://github.com/henriquebitencourt">
+	<img style="-webkit-user-select: none;background-position: 0px 0px, 10px 10px;background-size: 20px 20px;background-image:linear-gradient(45deg, #eee 25%, transparent 25%, transparent 75%, #eee 75%, #eee 100%),linear-gradient(45deg, #eee 25%, white 25%, white 75%, #eee 75%, #eee 100%);cursor: zoom-in;" src="https://avatars0.githubusercontent.com/u/22625167?s=400&amp;v=4" width="70" height="70" alt="Henrique Bitencourt" />
+</a>
+
 ## Preview
 
 **[View Live Here](http://coohomeless.me/landing-page/)**
