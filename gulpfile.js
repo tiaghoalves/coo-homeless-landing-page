@@ -93,7 +93,7 @@ gulp.task('copy', function() {
 })
 
 // Default task
-gulp.task('default', ['sass', 'minify-css', 'minify-js']);
+gulp.task('default', ['sass', 'minify-css', 'minify-js', 'copy']);
 
 // Configure the browserSync task
 gulp.task('browserSync', function() {
