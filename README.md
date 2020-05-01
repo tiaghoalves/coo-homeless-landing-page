@@ -1,6 +1,6 @@
 <p align="center">
-	<a href="http://coohomeless.me/landing-page/">
-		<img src="http://coohomeless.me/landing-page/img/logotipo.png" alt="Coo Homeless Page">
+	<a href="https://tiaghoalves.github.io/landing-page/">
+		<img src="http://tiaghoalves.github.io/landing-page/img/logotipo.png" alt="Coo Homeless Page">
 	</a>
 </p>
 <p align="center">
